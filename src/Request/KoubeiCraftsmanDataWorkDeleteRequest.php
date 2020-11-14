@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.craftsman.data.work.delete request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2020-08-25 17:19:09
  */
 namespace Alipay\Request;
 class KoubeiCraftsmanDataWorkDeleteRequest

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.twostage.common.use request
  *
  * @author auto create
- * @since 1.0, 2020-01-09 21:44:15
+ * @since 1.0, 2020-08-20 16:05:56
  */
 namespace Alipay\Request;
 class AlipayUserTwostageCommonUseRequest

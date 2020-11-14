@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.baseinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2020-05-06 19:56:31
+ * @since 1.0, 2020-07-03 14:46:24
  */
 namespace Alipay\Request;
 class AlipayOpenMiniBaseinfoModifyRequest
@@ -37,6 +37,11 @@ class AlipayOpenMiniBaseinfoModifyRequest
 	 * 小程序应用简介，一句话描述小程序功能
 	 **/
 	private $appSlogan;
+	
+	/** 
+	 * 新小程序前台类目，格式为 第一个一级类目_第一个二级类目;第二个一级类目_第二个二级类目_第二个三级类目，详细类目可以通过 https://docs.open.alipay.com/api_49/alipay.open.mini.category.query接口查询mini_category_list。使用后不再读取app_category_ids值，老前台类目将废弃
+	 **/
+	private $miniCategoryIds;
 	
 	/** 
 	 * 小程序客服邮箱
@@ -122,6 +127,17 @@ class AlipayOpenMiniBaseinfoModifyRequest
 	public function getAppSlogan()
 	{
 		return $this->appSlogan;
+	}
+
+	public function setMiniCategoryIds($miniCategoryIds)
+	{
+		$this->miniCategoryIds = $miniCategoryIds;
+		$this->apiParas["mini_category_ids"] = $miniCategoryIds;
+	}
+
+	public function getMiniCategoryIds()
+	{
+		return $this->miniCategoryIds;
 	}
 
 	public function setServiceEmail($serviceEmail)

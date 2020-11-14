@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.bizfee.activity.apply request
  *
  * @author auto create
- * @since 1.0, 2019-09-27 12:41:29
+ * @since 1.0, 2020-08-25 17:19:30
  */
 namespace Alipay\Request;
 class AlipayOpenOperationBizfeeActivityApplyRequest

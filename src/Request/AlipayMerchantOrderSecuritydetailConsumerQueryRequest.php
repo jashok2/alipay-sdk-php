@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.securitydetail.consumer.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-06 20:40:11
+ * @since 1.0, 2020-06-20 10:59:45
  */
 namespace Alipay\Request;
 class AlipayMerchantOrderSecuritydetailConsumerQueryRequest

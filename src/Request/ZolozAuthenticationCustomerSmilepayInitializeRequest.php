@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.customer.smilepay.initialize request
  *
  * @author auto create
- * @since 1.0, 2020-03-02 14:35:06
+ * @since 1.0, 2020-08-17 12:00:13
  */
 namespace Alipay\Request;
 class ZolozAuthenticationCustomerSmilepayInitializeRequest

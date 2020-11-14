@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.contract.offer.query request
  *
  * @author auto create
- * @since 1.0, 2020-02-21 18:25:07
+ * @since 1.0, 2020-08-20 10:18:27
  */
 namespace Alipay\Request;
 class ZhimaMerchantContractOfferQueryRequest

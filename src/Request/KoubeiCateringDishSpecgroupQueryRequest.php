@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.dish.specgroup.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-11 12:32:25
+ * @since 1.0, 2020-09-02 11:57:31
  */
 namespace Alipay\Request;
 class KoubeiCateringDishSpecgroupQueryRequest

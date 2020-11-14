@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.securitydigest.consumer.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-03-08 16:51:16
+ * @since 1.0, 2020-06-20 10:58:10
  */
 namespace Alipay\Request;
 class AlipayMerchantOrderSecuritydigestConsumerBatchqueryRequest

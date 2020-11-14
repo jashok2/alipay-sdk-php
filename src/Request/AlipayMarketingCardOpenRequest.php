@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.card.open request
  *
  * @author auto create
- * @since 1.0, 2020-01-08 10:04:41
+ * @since 1.0, 2020-06-19 13:47:31
  */
 namespace Alipay\Request;
 class AlipayMarketingCardOpenRequest

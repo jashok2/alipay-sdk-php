@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.dish.commrule.sync request
  *
  * @author auto create
- * @since 1.0, 2020-04-11 11:22:48
+ * @since 1.0, 2020-09-02 11:52:23
  */
 namespace Alipay\Request;
 class KoubeiCateringDishCommruleSyncRequest

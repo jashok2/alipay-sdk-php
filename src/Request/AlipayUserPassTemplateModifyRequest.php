@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.pass.template.modify request
  *
  * @author auto create
- * @since 1.0, 2020-05-14 15:15:40
+ * @since 1.0, 2020-06-05 10:21:21
  */
 namespace Alipay\Request;
 class AlipayUserPassTemplateModifyRequest

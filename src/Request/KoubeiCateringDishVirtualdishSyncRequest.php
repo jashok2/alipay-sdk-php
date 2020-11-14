@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.dish.virtualdish.sync request
  *
  * @author auto create
- * @since 1.0, 2020-04-11 12:31:15
+ * @since 1.0, 2020-09-02 11:56:57
  */
 namespace Alipay\Request;
 class KoubeiCateringDishVirtualdishSyncRequest

@@ -3,7 +3,7 @@
  * ALIPAY API: alios.open.auto.info.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-06 14:05:09
+ * @since 1.0, 2020-07-13 11:31:44
  */
 namespace Alipay\Request;
 class AliosOpenAutoInfoQueryRequest

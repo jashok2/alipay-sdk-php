@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.contract.common.query request
  *
  * @author auto create
- * @since 1.0, 2020-02-28 20:05:07
+ * @since 1.0, 2020-08-20 10:16:50
  */
 namespace Alipay\Request;
 class ZhimaMerchantContractCommonQueryRequest

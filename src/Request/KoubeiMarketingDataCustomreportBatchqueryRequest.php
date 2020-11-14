@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.customreport.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2020-08-31 10:33:50
  */
 namespace Alipay\Request;
 class KoubeiMarketingDataCustomreportBatchqueryRequest

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.creative.createormodify request
  *
  * @author auto create
- * @since 1.0, 2020-05-14 19:54:06
+ * @since 1.0, 2020-06-05 21:15:11
  */
 namespace Alipay\Request;
 class AlipayDataDataserviceAdCreativeCreateormodifyRequest

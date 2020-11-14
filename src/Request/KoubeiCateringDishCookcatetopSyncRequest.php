@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.dish.cookcatetop.sync request
  *
  * @author auto create
- * @since 1.0, 2020-04-11 11:07:01
+ * @since 1.0, 2020-08-31 11:12:05
  */
 namespace Alipay\Request;
 class KoubeiCateringDishCookcatetopSyncRequest

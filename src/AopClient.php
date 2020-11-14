@@ -1,6 +1,6 @@
 <?php
 
-namespace AliPay;
+namespace Alipay;
 
 use Alipay\EncryptParseItem;
 use Alipay\EncryptResponseData;

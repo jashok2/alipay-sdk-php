@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.sign.flow.create request
  *
  * @author auto create
- * @since 1.0, 2020-05-07 17:20:10
+ * @since 1.0, 2020-08-26 11:01:21
  */
 namespace Alipay\Request;
 class AlipayEcoSignFlowCreateRequest

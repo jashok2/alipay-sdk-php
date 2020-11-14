@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-02-27 17:35:06
+ * @since 1.0, 2020-06-28 17:36:55
  */
 namespace Alipay\Request;
 class AlipayOpenAgentConfirmRequest

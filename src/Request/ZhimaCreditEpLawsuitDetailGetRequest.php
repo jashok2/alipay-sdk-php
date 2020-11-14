@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.lawsuit.detail.get request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2020-07-10 10:31:23
  */
 namespace Alipay\Request;
 class ZhimaCreditEpLawsuitDetailGetRequest
