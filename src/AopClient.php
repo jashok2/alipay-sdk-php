@@ -1,6 +1,10 @@
 <?php
 
-use AliPay\{EncryptParseItem , EncryptResponseData , SignData};
+namespace AliPay;
+
+use Alipay\EncryptParseItem;
+use Alipay\EncryptResponseData;
+use Alipay\SignData;
 
 require_once 'AopEncrypt.php';
 
