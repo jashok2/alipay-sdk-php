@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.app.yiyiyiwu.query request
  *
  * @author auto create
  * @since 1.0, 2019-08-22 10:17:19
  */
+namespace Alipay\Request;
 class AlipayOpenAppYiyiyiwuQueryRequest
 {
 	/** 

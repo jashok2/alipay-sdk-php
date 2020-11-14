@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: ant.merchant.expand.item.open.query request
  *
  * @author auto create
  * @since 1.0, 2019-09-18 15:44:59
  */
+namespace Alipay\Request;
 class AntMerchantExpandItemOpenQueryRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: koubei.trade.ticket.ticketcode.cancel request
  *
  * @author auto create
  * @since 1.0, 2019-09-20 19:26:48
  */
+namespace Alipay\Request;
 class KoubeiTradeTicketTicketcodeCancelRequest
 {
 	/** 

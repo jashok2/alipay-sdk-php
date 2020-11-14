@@ -1,14 +1,15 @@
-<?php namespace Alipay\Request;
+<?php
 /**
- * ALIPAY API: ssdata.dataservice.risk.antifraudintegration.query request
+ * ALIPAY API: zhima.merchant.contract.quick.create request
  *
  * @author auto create
- * @since 1.0, 2019-07-29 16:05:48
+ * @since 1.0, 2020-03-18 19:55:23
  */
-class SsdataDataserviceRiskAntifraudintegrationQueryRequest
+namespace Alipay\Request;
+class ZhimaMerchantContractQuickCreateRequest
 {
 	/** 
-	 * 蚁盾欺诈评分综合版
+	 * 芝麻约定快速发约接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +36,7 @@ class SsdataDataserviceRiskAntifraudintegrationQueryRequest
 
 	public function getApiMethodName()
 	{
-		return "ssdata.dataservice.risk.antifraudintegration.query";
+		return "zhima.merchant.contract.quick.create";
 	}
 
 	public function setNotifyUrl($notifyUrl)

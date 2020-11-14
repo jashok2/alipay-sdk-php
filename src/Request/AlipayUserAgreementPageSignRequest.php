@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.user.agreement.page.sign request
  *
  * @author auto create
- * @since 1.0, 2019-10-29 11:32:02
+ * @since 1.0, 2019-12-04 12:18:43
  */
+namespace Alipay\Request;
 class AlipayUserAgreementPageSignRequest
 {
 	/** 

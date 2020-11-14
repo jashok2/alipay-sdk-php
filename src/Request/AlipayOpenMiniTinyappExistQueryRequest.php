@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.tinyapp.exist.query request
  *
  * @author auto create
  * @since 1.0, 2019-11-13 17:15:36
  */
+namespace Alipay\Request;
 class AlipayOpenMiniTinyappExistQueryRequest
 {
 	/** 

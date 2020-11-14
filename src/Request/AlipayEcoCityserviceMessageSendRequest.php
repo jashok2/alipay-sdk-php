@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.eco.cityservice.message.send request
  *
  * @author auto create
  * @since 1.0, 2019-06-17 19:45:33
  */
+namespace Alipay\Request;
 class AlipayEcoCityserviceMessageSendRequest
 {
 	/** 

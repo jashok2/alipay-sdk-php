@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.public.comptest.create request
  *
  * @author auto create
  * @since 1.0, 2019-09-11 14:21:13
  */
+namespace Alipay\Request;
 class AlipayOpenPublicComptestCreateRequest
 {
 	/** 

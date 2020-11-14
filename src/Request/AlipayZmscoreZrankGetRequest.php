@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.zmscore.zrank.get request
  *
  * @author auto create
  * @since 1.0, 2019-08-13 16:30:45
  */
+namespace Alipay\Request;
 class AlipayZmscoreZrankGetRequest
 {
 	/** 

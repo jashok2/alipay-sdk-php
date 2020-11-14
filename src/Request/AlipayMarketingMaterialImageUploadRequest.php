@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.marketing.material.image.upload request
  *
  * @author auto create
  * @since 1.0, 2019-07-15 10:09:02
  */
+namespace Alipay\Request;
 class AlipayMarketingMaterialImageUploadRequest
 {
 	/** 

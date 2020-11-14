@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.user.twostage.common.use request
  *
  * @author auto create
- * @since 1.0, 2019-08-06 14:55:01
+ * @since 1.0, 2020-01-09 21:44:15
  */
+namespace Alipay\Request;
 class AlipayUserTwostageCommonUseRequest
 {
 	/** 

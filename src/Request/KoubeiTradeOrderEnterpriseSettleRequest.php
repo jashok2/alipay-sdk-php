@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: koubei.trade.order.enterprise.settle request
  *
  * @author auto create
  * @since 1.0, 2019-03-29 18:50:02
  */
+namespace Alipay\Request;
 class KoubeiTradeOrderEnterpriseSettleRequest
 {
 	/** 

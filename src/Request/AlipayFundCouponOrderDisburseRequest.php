@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.fund.coupon.order.disburse request
  *
  * @author auto create
  * @since 1.0, 2019-03-07 20:59:40
  */
+namespace Alipay\Request;
 class AlipayFundCouponOrderDisburseRequest
 {
 	/** 

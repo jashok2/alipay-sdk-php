@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.app.updattest.batchquery request
  *
  * @author auto create
  * @since 1.0, 2019-04-03 13:20:00
  */
+namespace Alipay\Request;
 class AlipayOpenAppUpdattestBatchqueryRequest
 {
 	/** 

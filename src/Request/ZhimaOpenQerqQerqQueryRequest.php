@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.open.qerq.qerq.query request
  *
  * @author auto create
  * @since 1.0, 2019-09-26 16:55:33
  */
+namespace Alipay\Request;
 class ZhimaOpenQerqQerqQueryRequest
 {
 	/** 

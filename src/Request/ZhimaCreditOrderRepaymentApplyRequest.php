@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.credit.order.repayment.apply request
  *
  * @author auto create
  * @since 1.0, 2019-05-30 15:40:01
  */
+namespace Alipay\Request;
 class ZhimaCreditOrderRepaymentApplyRequest
 {
 	/** 

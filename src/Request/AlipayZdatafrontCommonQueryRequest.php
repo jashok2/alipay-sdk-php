@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.zdatafront.common.query request
  *
  * @author auto create
  * @since 1.0, 2019-11-14 12:16:36
  */
+namespace Alipay\Request;
 class AlipayZdatafrontCommonQueryRequest
 {
 	/** 

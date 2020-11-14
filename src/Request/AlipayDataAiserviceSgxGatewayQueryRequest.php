@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.data.aiservice.sgx.gateway.query request
  *
  * @author auto create
  * @since 1.0, 2019-05-22 16:25:01
  */
+namespace Alipay\Request;
 class AlipayDataAiserviceSgxGatewayQueryRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.eco.mycar.parking.orderstatus.query request
  *
  * @author auto create
  * @since 1.0, 2019-08-29 11:18:47
  */
+namespace Alipay\Request;
 class AlipayEcoMycarParkingOrderstatusQueryRequest
 {
 	/** 

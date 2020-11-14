@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.pay request
  *
  * @author auto create
  * @since 1.0, 2019-03-08 15:29:11
  */
+namespace Alipay\Request;
 class AlipayEbppPdeductPayRequest
 {
 	/** 

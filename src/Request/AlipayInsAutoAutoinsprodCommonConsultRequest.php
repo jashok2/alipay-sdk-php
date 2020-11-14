@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ins.auto.autoinsprod.common.consult request
  *
  * @author auto create
- * @since 1.0, 2019-07-30 17:08:24
+ * @since 1.0, 2019-12-05 14:47:38
  */
+namespace Alipay\Request;
 class AlipayInsAutoAutoinsprodCommonConsultRequest
 {
 	/** 

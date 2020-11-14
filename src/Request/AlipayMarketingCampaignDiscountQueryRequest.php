@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.marketing.campaign.discount.query request
  *
  * @author auto create
  * @since 1.0, 2019-05-15 15:30:59
  */
+namespace Alipay\Request;
 class AlipayMarketingCampaignDiscountQueryRequest
 {
 	/** 

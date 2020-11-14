@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.credit.ep.scene.agreement.use request
  *
  * @author auto create
  * @since 1.0, 2019-05-14 11:16:11
  */
+namespace Alipay\Request;
 class ZhimaCreditEpSceneAgreementUseRequest
 {
 	/** 

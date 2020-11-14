@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.messagetest.ces.send request
  *
  * @author auto create
  * @since 1.0, 2019-03-05 16:00:01
  */
+namespace Alipay\Request;
 class AlipayOpenMessagetestCesSendRequest
 {
 	/** 

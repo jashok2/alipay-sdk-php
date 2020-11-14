@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: koubei.trade.itemorder.buy request
  *
  * @author auto create
  * @since 1.0, 2019-01-22 16:50:00
  */
+namespace Alipay\Request;
 class KoubeiTradeItemorderBuyRequest
 {
 	/** 

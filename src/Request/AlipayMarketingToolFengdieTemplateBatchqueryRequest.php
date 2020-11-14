@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.marketing.tool.fengdie.template.batchquery request
  *
  * @author auto create
  * @since 1.0, 2019-05-22 14:31:34
  */
+namespace Alipay\Request;
 class AlipayMarketingToolFengdieTemplateBatchqueryRequest
 {
 	/** 

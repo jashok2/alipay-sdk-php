@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.app.message.subscription.query request
  *
  * @author auto create
  * @since 1.0, 2019-10-12 14:10:51
  */
+namespace Alipay\Request;
 class AlipayOpenAppMessageSubscriptionQueryRequest
 {
 	/** 

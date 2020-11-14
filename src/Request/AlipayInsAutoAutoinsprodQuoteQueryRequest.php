@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ins.auto.autoinsprod.quote.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-30 17:01:16
+ * @since 1.0, 2019-12-24 16:53:36
  */
+namespace Alipay\Request;
 class AlipayInsAutoAutoinsprodQuoteQueryRequest
 {
 	/** 

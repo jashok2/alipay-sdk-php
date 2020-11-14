@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.commerce.educate.user.click.create request
  *
  * @author auto create
  * @since 1.0, 2019-11-01 11:08:57
  */
+namespace Alipay\Request;
 class AlipayCommerceEducateUserClickCreateRequest
 {
 	/** 

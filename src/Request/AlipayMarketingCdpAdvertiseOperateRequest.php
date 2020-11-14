@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.marketing.cdp.advertise.operate request
  *
  * @author auto create
  * @since 1.0, 2019-03-19 12:04:23
  */
+namespace Alipay\Request;
 class AlipayMarketingCdpAdvertiseOperateRequest
 {
 	/** 

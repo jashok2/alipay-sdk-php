@@ -1,15 +1,16 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.agent.mini.create request
  *
  * @author auto create
- * @since 1.0, 2019-04-02 15:11:20
+ * @since 1.0, 2020-05-07 21:55:55
  */
+namespace Alipay\Request;
 class AlipayOpenAgentMiniCreateRequest
 {
 	/** 
-	 * 小程序应用类目，参数格式：一级类目_二级类目。
-应用类目参考文档：https://docs.alipay.com/isv/10325
+	 * 小程序类目，必填，可以支持最多三个类目，最少一个，参数格式：一级类目1_二级类目1;一级类目2_二级类目2。
+类目可以通过以下接口查询：alipay.open.mini.category.query
 	 **/
 	private $appCategoryIds;
 	

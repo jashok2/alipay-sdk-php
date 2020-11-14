@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.security.prod.check.iq.query request
  *
  * @author auto create
  * @since 1.0, 2019-11-04 16:04:07
  */
+namespace Alipay\Request;
 class AlipaySecurityProdCheckIqQueryRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.fund.batch.detail.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-12 12:21:37
+ * @since 1.0, 2020-04-13 15:25:13
  */
+namespace Alipay\Request;
 class AlipayFundBatchDetailQueryRequest
 {
 	/** 

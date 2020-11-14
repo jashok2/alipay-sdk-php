@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ebpp.invoice.auth.sign request
  *
  * @author auto create
- * @since 1.0, 2019-08-29 16:50:43
+ * @since 1.0, 2020-01-10 11:13:34
  */
+namespace Alipay\Request;
 class AlipayEbppInvoiceAuthSignRequest
 {
 	/** 

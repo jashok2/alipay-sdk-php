@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.data.dataservice.ad.creative.createormodify request
  *
  * @author auto create
- * @since 1.0, 2019-10-25 19:12:45
+ * @since 1.0, 2020-05-14 19:54:06
  */
+namespace Alipay\Request;
 class AlipayDataDataserviceAdCreativeCreateormodifyRequest
 {
 	/** 

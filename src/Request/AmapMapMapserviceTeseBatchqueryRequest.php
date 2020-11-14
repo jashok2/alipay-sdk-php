@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: amap.map.mapservice.tese.batchquery request
  *
  * @author auto create
  * @since 1.0, 2019-03-05 17:25:01
  */
+namespace Alipay\Request;
 class AmapMapMapserviceTeseBatchqueryRequest
 {
 	/** 

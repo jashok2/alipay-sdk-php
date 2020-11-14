@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.marketing.facetoface.decode.use request
  *
  * @author auto create
  * @since 1.0, 2019-10-25 16:32:29
  */
+namespace Alipay\Request;
 class AlipayMarketingFacetofaceDecodeUseRequest
 {
 	/** 

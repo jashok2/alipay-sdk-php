@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: koubei.trade.ticket.ticketcode.delay request
  *
  * @author auto create
  * @since 1.0, 2019-07-29 17:14:28
  */
+namespace Alipay\Request;
 class KoubeiTradeTicketTicketcodeDelayRequest
 {
 	/** 

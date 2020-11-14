@@ -1,14 +1,15 @@
-<?php namespace Alipay\Request;
+<?php
 /**
- * ALIPAY API: ssdata.dataservice.risk.rainscore.query request
+ * ALIPAY API: alipay.open.page.oldcontext.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-07-29 16:07:08
+ * @since 1.0, 2020-03-25 16:45:36
  */
-class SsdataDataserviceRiskRainscoreQueryRequest
+namespace Alipay\Request;
+class AlipayOpenPageOldcontextTransferRequest
 {
 	/** 
-	 * 蚁盾风险评分服务新版
+	 * 开放平台页面接口测试（老上下文）
 	 **/
 	private $bizContent;
 
@@ -35,7 +36,7 @@ class SsdataDataserviceRiskRainscoreQueryRequest
 
 	public function getApiMethodName()
 	{
-		return "ssdata.dataservice.risk.rainscore.query";
+		return "alipay.open.page.oldcontext.transfer";
 	}
 
 	public function setNotifyUrl($notifyUrl)

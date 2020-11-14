@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.credit.contract.borrow.cancel request
  *
  * @author auto create
  * @since 1.0, 2019-07-31 14:11:36
  */
+namespace Alipay\Request;
 class ZhimaCreditContractBorrowCancelRequest
 {
 	/** 

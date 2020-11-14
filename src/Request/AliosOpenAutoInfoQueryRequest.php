@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alios.open.auto.info.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-12 15:30:56
+ * @since 1.0, 2020-05-06 14:05:09
  */
+namespace Alipay\Request;
 class AliosOpenAutoInfoQueryRequest
 {
 	/** 

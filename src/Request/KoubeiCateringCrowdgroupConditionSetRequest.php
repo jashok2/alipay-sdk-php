@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: koubei.catering.crowdgroup.condition.set request
  *
  * @author auto create
  * @since 1.0, 2019-01-09 19:25:00
  */
+namespace Alipay\Request;
 class KoubeiCateringCrowdgroupConditionSetRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.public.user.follow.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-25 11:54:26
+ * @since 1.0, 2020-03-18 14:15:10
  */
+namespace Alipay\Request;
 class AlipayOpenPublicUserFollowQueryRequest
 {
 	/** 

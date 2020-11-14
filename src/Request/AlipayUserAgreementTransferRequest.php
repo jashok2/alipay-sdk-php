@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.user.agreement.transfer request
  *
  * @author auto create
  * @since 1.0, 2019-10-18 18:51:49
  */
+namespace Alipay\Request;
 class AlipayUserAgreementTransferRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.merchant.order.securitydigest.consumer.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-10-15 15:33:25
+ * @since 1.0, 2020-03-08 16:51:16
  */
+namespace Alipay\Request;
 class AlipayMerchantOrderSecuritydigestConsumerBatchqueryRequest
 {
 	/** 

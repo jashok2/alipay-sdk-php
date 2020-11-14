@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.security.prod.dfesf.def.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-09-21 14:29:44
+ * @since 1.0, 2020-02-11 19:20:55
  */
+namespace Alipay\Request;
 class AlipaySecurityProdDfesfDefBatchqueryRequest
 {
 	/** 

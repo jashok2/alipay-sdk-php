@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.data.aiservice.smartprice.merchanteffect.query request
  *
  * @author auto create
  * @since 1.0, 2019-10-25 11:19:03
  */
+namespace Alipay\Request;
 class AlipayDataAiserviceSmartpriceMerchanteffectQueryRequest
 {
 	/** 

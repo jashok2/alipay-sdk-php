@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.merchant.order.rent.query request
  *
  * @author auto create
  * @since 1.0, 2019-07-12 13:48:33
  */
+namespace Alipay\Request;
 class ZhimaMerchantOrderRentQueryRequest
 {
 	/** 

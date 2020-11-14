@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.version.audited.cancel request
  *
  * @author auto create
  * @since 1.0, 2019-10-31 19:37:56
  */
+namespace Alipay\Request;
 class AlipayOpenMiniVersionAuditedCancelRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.commerce.transport.nfccard.send request
  *
  * @author auto create
  * @since 1.0, 2019-08-07 18:20:01
  */
+namespace Alipay\Request;
 class AlipayCommerceTransportNfccardSendRequest
 {
 	/** 

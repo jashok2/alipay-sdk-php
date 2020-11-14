@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.data.dataservice.ad.userbalance.offline request
  *
  * @author auto create
  * @since 1.0, 2019-11-01 10:53:40
  */
+namespace Alipay\Request;
 class AlipayDataDataserviceAdUserbalanceOfflineRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.user.agreement.unsign request
  *
  * @author auto create
- * @since 1.0, 2019-09-24 14:27:55
+ * @since 1.0, 2019-12-31 16:32:35
  */
+namespace Alipay\Request;
 class AlipayUserAgreementUnsignRequest
 {
 	/** 

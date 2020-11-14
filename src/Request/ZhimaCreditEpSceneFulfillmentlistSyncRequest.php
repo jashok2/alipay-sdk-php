@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.credit.ep.scene.fulfillmentlist.sync request
  *
  * @author auto create
  * @since 1.0, 2019-05-22 14:55:01
  */
+namespace Alipay\Request;
 class ZhimaCreditEpSceneFulfillmentlistSyncRequest
 {
 	/** 

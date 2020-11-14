@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zoloz.authentication.customer.facemanage.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2020-03-10 15:25:07
  */
+namespace Alipay\Request;
 class ZolozAuthenticationCustomerFacemanageCreateRequest
 {
 	/** 

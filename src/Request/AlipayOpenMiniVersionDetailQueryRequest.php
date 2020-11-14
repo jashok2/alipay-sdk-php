@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.version.detail.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-31 18:02:32
+ * @since 1.0, 2020-05-10 06:05:09
  */
+namespace Alipay\Request;
 class AlipayOpenMiniVersionDetailQueryRequest
 {
 	/** 

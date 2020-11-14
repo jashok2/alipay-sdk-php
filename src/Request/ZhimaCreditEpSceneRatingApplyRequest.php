@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.credit.ep.scene.rating.apply request
  *
  * @author auto create
  * @since 1.0, 2019-05-14 11:30:01
  */
+namespace Alipay\Request;
 class ZhimaCreditEpSceneRatingApplyRequest
 {
 	/** 

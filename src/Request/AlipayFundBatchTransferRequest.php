@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.fund.batch.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-10-14 16:49:42
+ * @since 1.0, 2019-11-18 15:56:57
  */
+namespace Alipay\Request;
 class AlipayFundBatchTransferRequest
 {
 	/** 

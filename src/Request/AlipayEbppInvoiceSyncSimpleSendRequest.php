@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ebpp.invoice.sync.simple.send request
  *
  * @author auto create
- * @since 1.0, 2019-09-17 09:54:40
+ * @since 1.0, 2020-03-20 10:25:09
  */
+namespace Alipay\Request;
 class AlipayEbppInvoiceSyncSimpleSendRequest
 {
 	/** 

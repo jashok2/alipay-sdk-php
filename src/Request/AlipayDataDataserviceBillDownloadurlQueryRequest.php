@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.data.dataservice.bill.downloadurl.query request
  *
  * @author auto create
  * @since 1.0, 2019-11-15 09:05:48
  */
+namespace Alipay\Request;
 class AlipayDataDataserviceBillDownloadurlQueryRequest
 {
 	/** 

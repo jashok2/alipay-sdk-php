@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: koubei.member.data.desd.batchquery request
  *
  * @author auto create
  * @since 1.0, 2019-04-12 13:55:01
  */
+namespace Alipay\Request;
 class KoubeiMemberDataDesdBatchqueryRequest
 {
 	/** 

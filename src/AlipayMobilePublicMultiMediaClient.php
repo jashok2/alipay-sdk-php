@@ -6,13 +6,12 @@
  * @version $Id: AlipayMobilePublicMultiMediaClient.php, v 0.1 Aug 15, 2014 10:19:01 AM yikai.hu Exp $
  */
 
-namespace Alipay;
-use Alipay\AlipayMobilePublicMultiMediaExecute;
+namespace AliPay;
 
+use Alipay\AlipayMobilePublicMultiMediaExecute;
 
 class AlipayMobilePublicMultiMediaClient
 {
-
     private $DEFAULT_CHARSET = 'UTF-8';
     private $METHOD_POST = "POST";
     private $METHOD_GET = "GET";
@@ -35,7 +34,6 @@ class AlipayMobilePublicMultiMediaClient
     private $connectTimeout = 3000;
     private $readTimeout = 15000;
 
-
     function __construct($serverUrl = '', $appId = '', $partner_private_key = '', $format = '', $charset = 'GBK')
     {
         $this->serverUrl = $serverUrl;
@@ -52,11 +50,6 @@ class AlipayMobilePublicMultiMediaClient
      */
     public function getContents()
     {
-        //自己的服务器如果没有 curl，可用：fsockopen() 等
-
-
-        //1:
-        //2： 私钥格式
         $datas = array(
             "app_id" => $this->appId,
             "method" => $this->METHOD_POST,
@@ -66,7 +59,6 @@ class AlipayMobilePublicMultiMediaClient
             "biz_content" => '{"mediaId":"' . $this->media_id . '"}',
             "charset" => $this->charset
         );
-
 
         //要提交的数据
         $data_sign = $this->buildGetUrl($datas);
@@ -95,8 +87,6 @@ class AlipayMobilePublicMultiMediaClient
 
         echo $output;
 
-        //分离头部
-        //list($header, $body) = explode("\r\n\r\n", $output, 2);
         $datas = explode("\r\n\r\n", $output, 2);
         $header = $datas[0];
 
@@ -106,7 +96,6 @@ class AlipayMobilePublicMultiMediaClient
             $body = '';
 
         }
-
 
         return $this->execute($header, $body, $httpCode);
     }
@@ -124,14 +113,11 @@ class AlipayMobilePublicMultiMediaClient
 
     public function buildGetUrl($query = array())
     {
-
         if (!is_array($query)) {
             //exit;
         }
-
         //排序参数，
         $data = $this->buildQuery($query);
-
 
         // 私钥密码
         $passphrase = '';
@@ -153,13 +139,8 @@ class AlipayMobilePublicMultiMediaClient
         $privateKey = "-----BEGIN RSA PRIVATE KEY-----\n" . implode("\n", $p_key);
         $privateKey = $privateKey . "\n-----END RSA PRIVATE KEY-----";
 
-//		echo "\n\n私钥:\n";
-//		echo( $privateKey );
-//		echo "\n\n\n";
-
         //私钥
         $private_id = openssl_pkey_get_private($privateKey, $passphrase);
-
 
         // 签名
         $signature = '';
@@ -183,10 +164,6 @@ class AlipayMobilePublicMultiMediaClient
 
         $out = $data . '&' . $this->SIGN . '=' . $signature;
 
-//		echo "\n\n 加密后:\n";
-//		echo( $out );
-//		echo "\n\n\n";
-
         return $out;
     }
 
@@ -198,8 +175,7 @@ class AlipayMobilePublicMultiMediaClient
         if (!$query) {
             return null;
         }
-
-//将要 参数 排序
+        //将要 参数 排序
         ksort($query);
 
         //重新组装参数
@@ -208,10 +184,7 @@ class AlipayMobilePublicMultiMediaClient
             $params[] = $key . '=' . $value;
         }
         $data = implode('&', $params);
-
         return $data;
-
     }
-
 
 }

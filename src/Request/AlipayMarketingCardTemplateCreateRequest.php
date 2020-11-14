@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.marketing.card.template.create request
  *
  * @author auto create
  * @since 1.0, 2019-10-18 17:45:32
  */
+namespace Alipay\Request;
 class AlipayMarketingCardTemplateCreateRequest
 {
 	/** 

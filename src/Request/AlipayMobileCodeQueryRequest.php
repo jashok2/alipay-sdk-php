@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.mobile.code.query request
  *
  * @author auto create
  * @since 1.0, 2019-05-22 09:51:18
  */
+namespace Alipay\Request;
 class AlipayMobileCodeQueryRequest
 {
 	/** 

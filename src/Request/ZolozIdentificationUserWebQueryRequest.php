@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zoloz.identification.user.web.query request
  *
  * @author auto create
  * @since 1.0, 2019-07-09 20:11:47
  */
+namespace Alipay\Request;
 class ZolozIdentificationUserWebQueryRequest
 {
 	/** 

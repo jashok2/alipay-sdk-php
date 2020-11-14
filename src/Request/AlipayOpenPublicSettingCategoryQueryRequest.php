@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.public.setting.category.query request
  *
  * @author auto create
  * @since 1.0, 2019-06-12 17:36:13
  */
+namespace Alipay\Request;
 class AlipayOpenPublicSettingCategoryQueryRequest
 {
 

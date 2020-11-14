@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.pcredit.huabei.discount.solution.modify request
  *
  * @author auto create
  * @since 1.0, 2019-09-09 11:16:24
  */
+namespace Alipay\Request;
 class AlipayPcreditHuabeiDiscountSolutionModifyRequest
 {
 	/** 

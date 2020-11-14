@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.security.risk.customerrisk.send request
  *
  * @author auto create
  * @since 1.0, 2019-10-24 20:58:10
  */
+namespace Alipay\Request;
 class AlipaySecurityRiskCustomerriskSendRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.fund.auth.order.app.freeze request
  *
  * @author auto create
- * @since 1.0, 2019-09-09 16:04:52
+ * @since 1.0, 2020-05-15 15:18:37
  */
+namespace Alipay\Request;
 class AlipayFundAuthOrderAppFreezeRequest
 {
 	/** 

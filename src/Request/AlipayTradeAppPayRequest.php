@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.trade.app.pay request
  *
  * @author auto create
- * @since 1.0, 2019-11-06 10:38:53
+ * @since 1.0, 2020-05-12 16:13:18
  */
+namespace Alipay\Request;
 class AlipayTradeAppPayRequest
 {
 	/** 

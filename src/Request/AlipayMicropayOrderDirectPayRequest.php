@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.micropay.order.direct.pay request
  *
  * @author auto create
  * @since 1.0, 2019-07-24 14:46:22
  */
+namespace Alipay\Request;
 class AlipayMicropayOrderDirectPayRequest
 {
 	/** 

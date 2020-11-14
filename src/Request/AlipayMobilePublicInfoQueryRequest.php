@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.mobile.public.info.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2019-11-22 14:26:23
  */
+namespace Alipay\Request;
 class AlipayMobilePublicInfoQueryRequest
 {
 

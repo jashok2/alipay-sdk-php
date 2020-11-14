@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.app.dfsfas.de.query request
  *
  * @author auto create
- * @since 1.0, 2019-09-18 23:46:26
+ * @since 1.0, 2020-02-11 19:20:55
  */
+namespace Alipay\Request;
 class AlipayOpenAppDfsfasDeQueryRequest
 {
 	/** 

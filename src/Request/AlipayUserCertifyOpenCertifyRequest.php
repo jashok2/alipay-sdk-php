@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.user.certify.open.certify request
  *
  * @author auto create
  * @since 1.0, 2019-07-11 19:50:01
  */
+namespace Alipay\Request;
 class AlipayUserCertifyOpenCertifyRequest
 {
 	/** 

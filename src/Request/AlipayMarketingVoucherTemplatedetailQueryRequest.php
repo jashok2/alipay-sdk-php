@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.marketing.voucher.templatedetail.query request
  *
  * @author auto create
  * @since 1.0, 2019-07-02 16:30:01
  */
+namespace Alipay\Request;
 class AlipayMarketingVoucherTemplatedetailQueryRequest
 {
 	/** 

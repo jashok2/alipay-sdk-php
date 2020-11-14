@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.open.app.des.send request
  *
  * @author auto create
  * @since 1.0, 2019-06-05 22:19:55
  */
+namespace Alipay\Request;
 class ZhimaOpenAppDesSendRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: ant.merchant.expand.item.open.delete request
  *
  * @author auto create
  * @since 1.0, 2019-09-18 15:45:59
  */
+namespace Alipay\Request;
 class AntMerchantExpandItemOpenDeleteRequest
 {
 	/** 

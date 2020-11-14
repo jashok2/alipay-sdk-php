@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.trade.customs.declare request
  *
  * @author auto create
  * @since 1.0, 2019-03-28 14:01:57
  */
+namespace Alipay\Request;
 class AlipayTradeCustomsDeclareRequest
 {
 	/** 

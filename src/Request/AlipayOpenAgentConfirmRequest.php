@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.agent.confirm request
  *
  * @author auto create
- * @since 1.0, 2019-07-04 11:16:59
+ * @since 1.0, 2020-02-27 17:35:06
  */
+namespace Alipay\Request;
 class AlipayOpenAgentConfirmRequest
 {
 	/** 

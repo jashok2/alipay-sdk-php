@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.app.openbizmock.message.send request
  *
  * @author auto create
  * @since 1.0, 2019-01-11 18:35:00
  */
+namespace Alipay\Request;
 class AlipayOpenAppOpenbizmockMessageSendRequest
 {
 	/** 

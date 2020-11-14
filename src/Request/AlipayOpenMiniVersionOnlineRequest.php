@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.version.online request
  *
  * @author auto create
- * @since 1.0, 2019-11-06 11:49:49
+ * @since 1.0, 2020-04-13 20:31:18
  */
+namespace Alipay\Request;
 class AlipayOpenMiniVersionOnlineRequest
 {
 	/** 

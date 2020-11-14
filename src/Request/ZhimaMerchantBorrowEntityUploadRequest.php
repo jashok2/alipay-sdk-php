@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.merchant.borrow.entity.upload request
  *
  * @author auto create
- * @since 1.0, 2019-07-11 21:07:37
+ * @since 1.0, 2020-05-06 14:38:17
  */
+namespace Alipay\Request;
 class ZhimaMerchantBorrowEntityUploadRequest
 {
 	/** 

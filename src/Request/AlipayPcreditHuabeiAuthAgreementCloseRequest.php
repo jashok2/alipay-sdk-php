@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.pcredit.huabei.auth.agreement.close request
  *
  * @author auto create
- * @since 1.0, 2019-08-16 11:50:01
+ * @since 1.0, 2019-11-22 11:57:16
  */
+namespace Alipay\Request;
 class AlipayPcreditHuabeiAuthAgreementCloseRequest
 {
 	/** 

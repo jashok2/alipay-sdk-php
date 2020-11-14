@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ins.scene.application.issue.confirm request
  *
  * @author auto create
  * @since 1.0, 2019-08-28 14:20:47
  */
+namespace Alipay\Request;
 class AlipayInsSceneApplicationIssueConfirmRequest
 {
 	/** 

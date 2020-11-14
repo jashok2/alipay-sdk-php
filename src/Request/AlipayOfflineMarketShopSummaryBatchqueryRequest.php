@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.offline.market.shop.summary.batchquery request
  *
  * @author auto create
  * @since 1.0, 2019-06-07 22:50:01
  */
+namespace Alipay\Request;
 class AlipayOfflineMarketShopSummaryBatchqueryRequest
 {
 	/** 

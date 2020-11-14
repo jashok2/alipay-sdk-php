@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.auth.industry.platform.create.token request
  *
  * @author auto create
  * @since 1.0, 2019-07-24 10:18:32
  */
+namespace Alipay\Request;
 class AlipayOpenAuthIndustryPlatformCreateTokenRequest
 {
 	/** 

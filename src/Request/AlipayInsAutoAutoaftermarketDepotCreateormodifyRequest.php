@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ins.auto.autoaftermarket.depot.createormodify request
  *
  * @author auto create
- * @since 1.0, 2019-10-23 21:29:27
+ * @since 1.0, 2019-11-18 18:22:54
  */
+namespace Alipay\Request;
 class AlipayInsAutoAutoaftermarketDepotCreateormodifyRequest
 {
 	/** 

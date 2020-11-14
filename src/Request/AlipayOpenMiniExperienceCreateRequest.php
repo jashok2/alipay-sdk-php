@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.experience.create request
  *
  * @author auto create
  * @since 1.0, 2019-11-13 16:52:46
  */
+namespace Alipay\Request;
 class AlipayOpenMiniExperienceCreateRequest
 {
 	/** 

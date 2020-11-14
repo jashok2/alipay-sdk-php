@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.user.agreement.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-29 11:32:17
+ * @since 1.0, 2020-03-25 20:05:12
  */
+namespace Alipay\Request;
 class AlipayUserAgreementQueryRequest
 {
 	/** 

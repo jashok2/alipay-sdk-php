@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zoloz.authentication.customer.ftoken.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-15 19:30:00
+ * @since 1.0, 2020-05-14 18:47:28
  */
+namespace Alipay\Request;
 class ZolozAuthenticationCustomerFtokenQueryRequest
 {
 	/** 

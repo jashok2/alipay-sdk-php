@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.eco.edu.kt.billing.send request
  *
  * @author auto create
- * @since 1.0, 2019-03-17 14:44:13
+ * @since 1.0, 2019-12-26 15:01:34
  */
+namespace Alipay\Request;
 class AlipayEcoEduKtBillingSendRequest
 {
 	/** 

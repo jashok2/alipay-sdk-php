@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.version.delete request
  *
  * @author auto create
  * @since 1.0, 2019-10-31 17:33:01
  */
+namespace Alipay\Request;
 class AlipayOpenMiniVersionDeleteRequest
 {
 	/** 

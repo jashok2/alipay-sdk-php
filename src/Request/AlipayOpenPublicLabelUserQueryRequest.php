@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.public.label.user.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2020-04-07 10:48:46
  */
+namespace Alipay\Request;
 class AlipayOpenPublicLabelUserQueryRequest
 {
 	/** 

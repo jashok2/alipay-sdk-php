@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.public.follow.batchquery request
  *
  * @author auto create
  * @since 1.0, 2019-06-21 14:02:08
  */
+namespace Alipay\Request;
 class AlipayOpenPublicFollowBatchqueryRequest
 {
 	/** 

@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.user.info.auth request
  *
  * @author auto create
- * @since 1.0, 2019-02-20 21:22:40
+ * @since 1.0, 2020-03-04 14:49:24
  */
+namespace Alipay\Request;
 class AlipayUserInfoAuthRequest
 {
 	/** 

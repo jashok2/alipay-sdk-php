@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.agent.offlinepayment.sign request
  *
  * @author auto create
  * @since 1.0, 2019-11-01 16:41:27
  */
+namespace Alipay\Request;
 class AlipayOpenAgentOfflinepaymentSignRequest
 {
 	/** 

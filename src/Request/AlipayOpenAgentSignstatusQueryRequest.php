@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.agent.signstatus.query request
  *
  * @author auto create
  * @since 1.0, 2019-10-18 16:57:34
  */
+namespace Alipay\Request;
 class AlipayOpenAgentSignstatusQueryRequest
 {
 	/** 

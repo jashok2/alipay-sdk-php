@@ -1,14 +1,15 @@
-<?php namespace Alipay\Request;
+<?php
 /**
- * ALIPAY API: ssdata.dataservice.risk.antifraud.verify request
+ * ALIPAY API: alipay.data.dataservice.ad.principal.consult request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2020-05-11 16:08:35
  */
-class SsdataDataserviceRiskAntifraudVerifyRequest
+namespace Alipay\Request;
+class AlipayDataDataserviceAdPrincipalConsultRequest
 {
 	/** 
-	 * 蚁盾欺诈信息验证
+	 * 二方商家获取签约地址
 	 **/
 	private $bizContent;
 
@@ -35,7 +36,7 @@ class SsdataDataserviceRiskAntifraudVerifyRequest
 
 	public function getApiMethodName()
 	{
-		return "ssdata.dataservice.risk.antifraud.verify";
+		return "alipay.data.dataservice.ad.principal.consult";
 	}
 
 	public function setNotifyUrl($notifyUrl)

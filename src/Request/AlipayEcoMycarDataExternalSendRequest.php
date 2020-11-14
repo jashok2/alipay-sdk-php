@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.eco.mycar.data.external.send request
  *
  * @author auto create
  * @since 1.0, 2019-07-24 10:19:04
  */
+namespace Alipay\Request;
 class AlipayEcoMycarDataExternalSendRequest
 {
 	/** 

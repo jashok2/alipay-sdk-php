@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.mobile.bksigntoken.verify request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2020-05-09 11:01:44
  */
+namespace Alipay\Request;
 class AlipayMobileBksigntokenVerifyRequest
 {
 	/** 

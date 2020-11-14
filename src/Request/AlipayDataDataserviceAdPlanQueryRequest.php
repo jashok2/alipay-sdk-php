@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.data.dataservice.ad.plan.query request
  *
  * @author auto create
  * @since 1.0, 2019-11-01 10:51:48
  */
+namespace Alipay\Request;
 class AlipayDataDataserviceAdPlanQueryRequest
 {
 	/** 

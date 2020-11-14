@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.pass.template.add request
  *
  * @author auto create
  * @since 1.0, 2019-08-08 20:00:10
  */
+namespace Alipay\Request;
 class AlipayPassTemplateAddRequest
 {
 	/** 

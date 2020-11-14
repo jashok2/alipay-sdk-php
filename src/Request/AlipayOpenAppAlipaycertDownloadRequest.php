@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.app.alipaycert.download request
  *
  * @author auto create
  * @since 1.0, 2019-08-20 18:15:01
  */
+namespace Alipay\Request;
 class AlipayOpenAppAlipaycertDownloadRequest
 {
 	/** 

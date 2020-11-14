@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.trade.page.refund request
  *
  * @author auto create
  * @since 1.0, 2019-06-19 11:35:01
  */
+namespace Alipay\Request;
 class AlipayTradePageRefundRequest
 {
 	/** 

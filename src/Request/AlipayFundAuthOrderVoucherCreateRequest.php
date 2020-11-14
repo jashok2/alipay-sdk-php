@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.fund.auth.order.voucher.create request
  *
  * @author auto create
- * @since 1.0, 2019-11-04 15:05:46
+ * @since 1.0, 2020-05-15 15:17:02
  */
+namespace Alipay\Request;
 class AlipayFundAuthOrderVoucherCreateRequest
 {
 	/** 

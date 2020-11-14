@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.credit.contract.borrow.delay request
  *
  * @author auto create
  * @since 1.0, 2019-07-31 14:11:16
  */
+namespace Alipay\Request;
 class ZhimaCreditContractBorrowDelayRequest
 {
 	/** 

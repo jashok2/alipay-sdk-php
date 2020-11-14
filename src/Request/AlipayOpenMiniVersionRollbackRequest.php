@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.version.rollback request
  *
  * @author auto create
  * @since 1.0, 2019-11-13 16:55:17
  */
+namespace Alipay\Request;
 class AlipayOpenMiniVersionRollbackRequest
 {
 	/** 

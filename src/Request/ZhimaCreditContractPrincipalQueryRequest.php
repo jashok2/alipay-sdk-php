@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: zhima.credit.contract.principal.query request
  *
  * @author auto create
  * @since 1.0, 2019-07-31 14:11:56
  */
+namespace Alipay\Request;
 class ZhimaCreditContractPrincipalQueryRequest
 {
 	/** 

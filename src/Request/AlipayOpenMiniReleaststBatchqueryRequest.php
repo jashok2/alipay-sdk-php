@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.open.mini.releastst.batchquery request
  *
  * @author auto create
  * @since 1.0, 2019-04-11 17:22:28
  */
+namespace Alipay\Request;
 class AlipayOpenMiniReleaststBatchqueryRequest
 {
 	/** 

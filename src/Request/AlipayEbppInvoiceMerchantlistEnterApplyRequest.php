@@ -1,10 +1,11 @@
-<?php namespace Alipay\Request;
+<?php
 /**
  * ALIPAY API: alipay.ebpp.invoice.merchantlist.enter.apply request
  *
  * @author auto create
- * @since 1.0, 2019-06-21 16:57:28
+ * @since 1.0, 2020-04-21 14:55:42
  */
+namespace Alipay\Request;
 class AlipayEbppInvoiceMerchantlistEnterApplyRequest
 {
 	/** 
