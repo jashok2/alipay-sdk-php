@@ -2,7 +2,9 @@
 
 namespace AliPay;
 
-use AliPay\{EncryptParseItem , EncryptResponseData , SignData};
+use Alipay\EncryptParseItem;
+use Alipay\EncryptResponseData;
+use Alipay\SignData;
 
 require_once 'AopEncrypt.php';
 require_once 'AopCertification.php';
