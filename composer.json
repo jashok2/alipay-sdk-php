@@ -1,5 +1,5 @@
 {
-    "name": "enda/alipay-sdk-php",
+    "name": "jashok2/alipay-sdk-php",
     "description": "alipay sdk for composer,update for alipay",
     "type": "library",
     "license": "Apache-2.0",
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Enda",
-            "email": "endachao@gmail.com"
+            "name": "Jashok2",
+            "email": "jashok2@gmail.com"
         }
     ],
     "minimum-stability": "stable",
